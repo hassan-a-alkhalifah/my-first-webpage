@@ -1,4 +1,4 @@
-# _My First Project_
+# _My First Webpage_
 
 #### _First HTML Excercise for Epicodus, 06/12/18_
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a beginner's HTML finished exercise for Epicodus to which was designed to help practice the basics of HTML tag/elements, indentation and overall structure_
+_This is a beginner's HTML finished exercise for Epicodus to which was designed to help practice the basics of HTML tag/elements, indentation and overall structure. The repository will include two directories, my-first-webpage.html and favorite-things.html. Both are based on the aforementioned HTML practice exercise._
 
 ## Setup
 
@@ -17,7 +17,7 @@ _This is a beginner's HTML finished exercise for Epicodus to which was designed 
 
 _HTML_
 
-### license
+### License
 
 Copyright (c) 2018 **_Hassan Al-khalifah_**
 
