@@ -1,24 +1,24 @@
-# _Practice HTML lesson 2_
+# _My First Project_
 
-#### _This is two practice lessons completed for Epicodus using basic HTML, 06/08/18_
+#### _First HTML Excercise for Epicodus, 06/12/18_
 
-#### By _**Hassan Al-khalifah**_
+#### **_By Hassan Al-khalifah_**
 
-## _Description_
+## Description
 
-_This is two practice lessons completed for Epicodus using basic HTML. Both lessons consist of practicing the basic concepts of HTML tags/elements and their uses, hierarchy and code organization_
+_This is a beginner's HTML finished exercise for Epicodus to which was designed to help practice the basics of HTML tag/elements, indentation and overall structure_
 
 ## Setup
 
-* _Clone this repository._
-* _Open in preferred browser._
+* _Clone repository onto desktop using Git Clone_
+* _View finished HTML by opening file in preferred browser_
 
 ## Technologies Used
 
 _HTML_
 
-### License
+### license
 
 Copyright (c) 2018 **_Hassan Al-khalifah_**
 
-*This software is license under the MIT license.*
+_This software is licensed under the MIT license._
